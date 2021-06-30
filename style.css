@@ -64,7 +64,50 @@ body{
 .blog-item{
     padding: 0 0 0 20px;
 }
+.blog-item p{
+    color: #9F9F9F;
+}
+.blog-item p span{
+    color: #562EFF;
+}
 .ll{
     padding: 0 15px 0 0;
     margin: 0 0 20px 0;
+}
+.card-footer{
+    background-color: transparent;
+    border: none;
+}
+.card-footer .div1 img{
+    width: 14px;
+}
+.card-footer .div2 img{
+    width: 25px;
+}
+.div1{
+    color: #9F9F9F;
+    font-weight: bold;
+}
+.div2{
+    width: 120px;
+    border: tomato 2px solid;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #FEE5DF;
+    color: #FF4A60;
+    font-weight: bolder;
+}
+.card-footer{
+    margin:0;
+    padding:0;
+}
+.card-body p{
+    color: #ED6B4F;
+    font-weight: 500;
+    font-size: 18px;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px rgb(201, 195, 195);
+    border-radius: 20px;
 }
