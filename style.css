@@ -1,0 +1,70 @@
+body{
+    background-color: #F3F1FF;
+    
+}
+.navbar-brand img{
+    width: 41px;
+    height: 51px;
+}
+.nav-des{
+    background-color: #562EFF;
+}
+.nav-des a{
+    color: white !important;
+}
+.navi{
+    padding-right: 50px;
+}
+.navbar-brand span{
+    font-size: 26px;
+    padding-left: 15px;
+}
+.container{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 0px 40px;
+}
+.photo img{
+    width: 56px;
+    height: 56px;
+}
+.photo{
+    margin: 0;
+    padding: 20px 0;
+}
+.photo h5{
+    padding-left: 15px;
+    
+}
+.line{
+    width: 100%;
+    height: 1px;
+    margin-top: 40px ;
+    margin-bottom: 20px;
+    background-color: #562EFF;
+}
+.title{
+    padding: 20px 0;
+    color: #562EFF;
+}
+.row{
+    margin: 0;
+    padding: 0;
+}
+.blog img{
+    width: 277px;
+}
+.blog{
+    margin: 0;
+    padding: 0 0 20px 0;
+ 
+}
+.blog-item{
+    padding: 0 0 0 20px;
+}
+.ll{
+    padding: 0 15px 0 0;
+    margin: 0 0 20px 0;
+}
