@@ -13,7 +13,7 @@ body{
     color: white !important;
 }
 .navi{
-    padding-right: 50px;
+    padding-right: 20px;
 }
 .navbar-brand span{
     font-size: 26px;
@@ -24,7 +24,7 @@ body{
     margin-bottom: 30px;
     background-color: white;
     border-radius: 10px;
-    padding: 0px 40px;
+    padding: 0px 40px 20px 40px;
 }
 .photo img{
     width: 56px;
@@ -64,32 +64,27 @@ body{
 .blog-item{
     padding: 0 0 0 20px;
 }
-.blog-item p{
+.blog-item .card-body small{
     color: #9F9F9F;
 }
-.blog-item p span{
+.blog-item .card-body span{
     color: #562EFF;
-}
-.ll{
-    padding: 0 15px 0 0;
-    margin: 0 0 20px 0;
 }
 .card-footer{
     background-color: transparent;
     border: none;
 }
 .card-footer .div1 img{
-    width: 14px;
+    width: 12px;
 }
 .card-footer .div2 img{
-    width: 25px;
+    width: 20px;
 }
 .div1{
     color: #9F9F9F;
     font-weight: bold;
 }
 .div2{
-    width: 120px;
     border: tomato 2px solid;
     text-align: center;
     border-radius: 15px;
@@ -111,3 +106,11 @@ body{
     box-shadow: 1px 1px 5px rgb(201, 195, 195);
     border-radius: 20px;
 }
+
+footer{
+    background-color: #562EFF;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+
